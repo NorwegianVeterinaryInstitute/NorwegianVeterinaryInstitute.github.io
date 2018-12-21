@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## The Norwegian Veterinary Institute
 
-You can use the [editor on GitHub](https://github.com/NorwegianVeterinaryInstitute/NorwegianVeterinaryInstitute/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[The Norwegian Veterinary Institute](www.vetinst.no) is a biomedical research institute, and the national leading centre of expertise in biosecurity in fish and land animals. The aim of the Institute is to become Norway’s centre of preparedness for One Health.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This github site is where the Institute keeps code and other resources. We welcome comments and feedback on our work. The best way to do that is to submit an issue in the relevant repo. 
 
-### Markdown
+### Major groups
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We have several subgroups that use the NVI github repo. 
 
-```markdown
-Syntax highlighted code block
+#### The Bioinformatics group
 
-# Header 1
-## Header 2
-### Header 3
+Bioinformatics is a growing field at the Institute. We currently have three dedicated people working on bioinformatics, and quite a few projects in that area.
 
-- Bulleted
-- List
+### Salmon lice group
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NorwegianVeterinaryInstitute/NorwegianVeterinaryInstitute/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+We are also quite active in the salmon louse area, and work on that can also be found in the NVI repos. 
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For more general questions about NVI on github, contact karin dot lagesen at vetinst dot no.

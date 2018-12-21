@@ -12,7 +12,7 @@ We have several subgroups that use the NVI github repo.
 
 Bioinformatics is a growing field at the Institute. We currently have three dedicated people working on bioinformatics, and quite a few projects in that area.
 
-### Salmon lice group
+#### Salmon lice group
 
 We are also quite active in the salmon louse area, and work on that can also be found in the NVI repos. 
 
